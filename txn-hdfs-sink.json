@@ -1,0 +1,20 @@
+{
+  "name": "txn-hdfs-sink",
+  "config": {
+    "connector.class": "io.confluent.connect.hdfs3.Hdfs3SinkConnector",
+    "tasks.max": "1",
+    "topics": "txn-raw",
+    "hdfs.url": "hdfs://localhost:9000",
+    "topics.dir": "/finsight/data/raw",
+    "format.class": "io.confluent.connect.hdfs3.parquet.ParquetFormat",
+    "partitioner.class": "io.confluent.connect.storage.partitioner.FieldPartitioner",
+    "partition.field.name": "step",
+    "flush.size": "10000",
+    "schema.compatibility": "NONE",
+    "confluent.topic.bootstrap.servers": "localhost:9092",
+    "key.converter": "org.apache.kafka.connect.storage.StringConverter",
+    "value.converter": "org.apache.kafka.connect.json.JsonConverter",
+    "value.converter.schemas.enable": "true"
+  }
+}
+
