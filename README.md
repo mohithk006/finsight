@@ -14,13 +14,13 @@
 ## 📊 Dashboard
 
 ### Fraud Alert Board
-![Fraud Alert Board](docs/images/fraud-alert-board.png)
+![Fraud Alert Board](fraud-alert-bi.png)
 
 ### Customer 360
-![Customer 360](docs/images/customer-360.png)
+![Customer 360](customer360-bi.png)
 
 ### Risk & Compliance
-![Risk & Compliance](docs/images/risk-compliance.png)
+![Risk & Compliance](compliance-bi.png)
 
 ## 📋 Table of Contents
 
