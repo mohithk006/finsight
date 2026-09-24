@@ -9,7 +9,7 @@
 [![Neo4j](https://img.shields.io/badge/Neo4j-blue.svg)](https://neo4j.com/)
 [![Power BI](https://img.shields.io/badge/Power%20BI-yellow.svg)](https://powerbi.microsoft.com/)
 
-*FinSight is an end-to-end big data banking analytics platform built for NovaCrest Bank, combining real-time streaming, distributed processing, data warehousing, graph analytics, workflow automation, and interactive business intelligence.*
+*FinSight is an end-to-end big data banking analytics platform, combining real-time streaming, distributed processing, data warehousing, graph analytics, workflow automation, and interactive business intelligence.*
 
 ---
 
@@ -23,8 +23,6 @@
 
 ### Risk & Compliance
 ![Risk & Compliance](docs/images/risk-compliance.png)
-
-> Replace the image paths above with the screenshots of your three Power BI dashboard pages.
 
 ---
 
