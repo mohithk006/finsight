@@ -11,8 +11,6 @@
 
 *FinSight is an end-to-end big data banking analytics platform, combining real-time streaming, distributed processing, data warehousing, graph analytics, workflow automation, and interactive business intelligence.*
 
----
-
 ## 📊 Dashboard
 
 ### Fraud Alert Board
@@ -24,8 +22,6 @@
 ### Risk & Compliance
 ![Risk & Compliance](docs/images/risk-compliance.png)
 
----
-
 ## 📋 Table of Contents
 
 - [Introduction](#-introduction)
@@ -36,7 +32,6 @@
 - [Processing Pipeline](#-processing-pipeline)
 - [Results](#-results)
 
----
 
 ## Introduction
 
@@ -48,7 +43,6 @@ FinSight addresses three major banking analytics requirements:
 
 The platform processes **6.3M+ transactions** and **10K customer profiles** across streaming and batch workflows.
 
----
 
 ## Key Features
 
@@ -61,7 +55,6 @@ The platform processes **6.3M+ transactions** and **10K customer profiles** acro
 - **Graph-Based Analysis** using Neo4j for account and transaction relationships.
 - **Interactive Power BI Dashboards** for fraud monitoring, customer analytics, and compliance reporting.
 
----
 
 ## Architecture
 
